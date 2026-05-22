@@ -95,7 +95,7 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/closeup-smiling-beautiful-adult-businesswoman_1262-1760.jpg",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/modern-equipped-computer-lab_23-2149241199.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/modern-equipped-computer-lab_23-2149241199.jpg?_wi=1"
       imageAlt="crypto platform interface"
       avatars={[
         {
@@ -195,7 +195,7 @@ export default function LandingPage() {
           descriptions: [
             "Institutional-grade security for your assets.",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/modern-equipped-computer-lab_23-2149241199.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/modern-equipped-computer-lab_23-2149241199.jpg?_wi=2",
           imageAlt: "Business graphs and figures on laptop left open on desk in empty office",
         },
         {
